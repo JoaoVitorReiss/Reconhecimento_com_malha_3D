@@ -1,3 +1,5 @@
+# Para fechar a webcam, basta você apertar no ESC no seu teclado
+
 import cv2
 import mediapipe as mp
 mp_drawing = mp.solutions.drawing_utils
